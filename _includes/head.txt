@@ -1,1 +1,0 @@
-{% if site.data.options.lato_font_load %} {% endif %} {% if site.data.options.mathjax %} {% endif %} {% if site.google_analytics and jekyll.environment == 'production' %} {% include analytics.html %} {% endif %}

@@ -1,8 +1,0 @@
-{% include meta.html %}
-
-{{ site.name }}
-{{ site.description }}
-About Blog Resume
-{{ content }}
-{% include svg-icons.html %}
-{% include analytics.html %}
