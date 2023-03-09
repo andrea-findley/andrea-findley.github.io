@@ -1,0 +1,52 @@
+I"�<p>This project is digital humanities project that uses webscraping, NLP, named entity recognition, and geosptial tools to visualize changes in the Latter-Day Saint identity between 1835 and the present.</p>
+
+<!--more-->
+
+<h2 id="project-background">Project Background</h2>
+
+<p>This project was born out of an interest in Latter-day Saint music and spatial identity. I began work on this project after reading Peter Corviello’s “Make yourselves Gods: Mormons and the
+Unfinished Project of American Secularism.” This project takes spatial speculations made in that book and seeks to visualize their intersections with LDS music.</p>
+
+<p>The geograpy of the Church of Jesus Christ of Latter-day Saints is of remarkable interest. The Church, which began in upstate New York, had its saints settle everywhere from Ohio to Missouri 
+to Omaha/Potawatomi territory to Utah. Now, thousands of representatives of the church go on “missions” to share the message of the church with people in over 80 countries. The church claims 
+to be international, but its theology and culture often feels extremely local, centered around the goings on of Salt Lake City. Church history and theology primarily focus on the story of the 
+ancient Americas and the journey of the pioneers. These theological and cultural focuses could be reflected in the hymnbook, leading me to my research question:</p>
+
+<p>How do the differences in the discussions of geography between the original Latter-day Saint hymnbook and the most recent iteration illustrate developments in the LDS cultural 
+identity during the 19th and 20th centuries?</p>
+
+<h2 id="methodology">Methodology</h2>
+
+<p>To begin this project, I aquired a scanned and OCRed version of the 1835 LDS Hymnbook as compiled by Emma Smith. Then, I webscraped the LDS hymnal from the <a href="https://www.churchofjesuschrist.org/music/library/hymns?lang=eng">church website</a>.
+Next, I cleaned the data for the project, ensuring that any errors in the optical character recognizing were rectified.<br />
+Then, I used displaCy, a named entity recognition tool in the spaCy NLP package, to find locations in my two datasets. I checked this data to ensure that 
+these were all real places. Lastly, I geocoded (turned place names into coordinates) and mapped these locations using the folium package.</p>
+
+<p>If you are interested in seeing the code for this project, you can find it <a href="https://github.com/amyeshreeve/ldshymns">here</a>.</p>
+
+<h2 id="results">Results</h2>
+
+<p>Here is the interactive map for <a href="/1835-maps.html">1835</a>.<br />
+Here is the interactive map for <a href="/1985-maps.html">1985</a>.</p>
+
+<h2 id="discussion">Discussion</h2>
+
+<p>There is still work to be done on this project, but a significant takeaway is the greater number of references to abstract places like “Zion” and the “city of Enoch” in the 1835 hymnal.
+This is key because it demonstrates that when the Latter-day Saints lacked a fixed location, they were more likely to aspire to abstraction. Now, the Latter-day Saints have been established in
+Salt Lake City for over a century, and their references to abstract locations decrease while their references to the USA increase.</p>
+
+<p>There is much to be said about Latter-day Saints and the process of assimilation. Early Saints may not have considered themselves Americans even while living in Kirtland, Ohio. Today,
+Latter-day Saints living in Utah celebrate Pioneer Day, a holiday recognizing the Mormon exodus to Utah, by waving American flags. Further research must interrogate how music and hymns 
+increased members’ willingness to assimilate into a broader American identity.</p>
+
+<p>In 2018, prophet and president of the LDS Church Russell M. Nelson announced that the Church was working on creating a new hymnbook. In this announcement, President Nelson mentioned that 
+national anthems may be removed from the hymnbook (which currently includes songs about American freedom and “God Save the King”). One cannot help but wonder how the church’s international 
+expansion will further influence the text of the included hymns beyond just the removal of national anthems. It is also important to recognize that while the English version of the 1985 
+hymnal includes English/American patriotic hymns, other translations include patriotic hymns that correspond the nations associated with those languages. Such inclusions correlate with and 
+are justified by the 12th LDS article of faith, in which Saints pledge alleigiance to the nations where they live. If patriotism and nationalism have theological justifications, what does it 
+mean for the LDS church to remove all national songs, not just American ones?</p>
+
+<p>While I personally will miss the ubiquitous green hymnbook (if the physical design is changed), I think that the developments demonstrated in this analysis show 
+how Latter-day Saint theology is and has always been closely tied with the hymnal. Upon the released of the next iteraton of the hymnal, I may revisit this 
+analysis to see what has changed.</p>
+:ET
