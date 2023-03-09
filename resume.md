@@ -47,7 +47,7 @@ Evaluated the impact of the Institute’s research and policy work as a data ana
 Affiliated with Austin Young Democrats, Texas College Democrats, and U Dems
 *Spring 2021-Present*
 
-University of Texas Women's Choir. 
+University of Texas Women's Choir.  
 *Spring 2020-Fall 2022*
 
   
