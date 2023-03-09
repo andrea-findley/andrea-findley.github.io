@@ -40,18 +40,19 @@ Assisted Professor Bethany Albertson in political psychology research regarding 
 Intern at Global Research Institute at the College of William and Mary, Williamsburg, VA  
 40 hours per week  
 Evaluated the impact of the Institute’s research and policy work as a data analyst. Edited and managed the Institute’s public outreach messages and efforts.  
+*Summer 2019*  
 
 ## Extracurricular Activities
 
 Affiliated with Austin Young Democrats, Texas College Democrats, and U Dems
 *Spring 2021-Present*
 
-University of Texas Women's Choir
+University of Texas Women's Choir. 
 *Spring 2020-Fall 2022*
 
   
 ## Community Service
   
-Election Poll Worker. 
-*26 hours*
+Election Poll Worker  
+*26 hours*  
 Assisted in checking voters in, directing voters around, and setting up and breaking down the venue.
