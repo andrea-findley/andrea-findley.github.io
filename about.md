@@ -3,10 +3,6 @@ title: About
 layout: page
 ---
 
-Amy Shreeve is a Rhetoric & Writing/History double major pursuing certificates in Museum Studies and Digital Humanities at the University of Texas at Austin. Her expected graduation date is the Spring of 2023. This portfolio presents several of Amy’s projects created inside and outside of the classroom.
+Andrea Findley is an undergraduate senior at the University of Texas at Austin majoring in Psychology, Economics, and Government. She is currently performing research on Dr. Hannah Walker and Dr. Derek Epp's Policing Project at Innovations for Peace and Development. There, Andrea uses her skills in programming, data analytics, and geocoding to analyze policing trends in the United States. Andrea also works as a consultant at the University Writing Center.  
 
-These projects are centered around commemorative georgraphies, Yiddish culture in the United States, and literature. Amy is currently researching the geography of Austin with Dr. Edmund Gordon at the University of Texas and working as a technical writing/marketing intern at Pivot Enginers. She is also the president of Texas Digital Humanities.
-
-Outside of an academic context, Amy is very interested in classic literature, modern poetry, and Yiddish. In her free time, Amy can be found hammocking, reading, upcycling dumpster furniture, and dreaming of the Wasatch Range. Amy owns every National Geographic published between 2000-2013 and many non-consecutive issues since.
-
-Find her resume [here](https://amyeshreeve.github.io/resume/).
+Andrea's personal research has centered around how voting is impacted by community policing. She is interested in the intersection of data science and governance. In her free time, Andrea can be found out surfing with the Texas Wake Team, singing with her choir, loitering in the IPD lab, and planning her next trip abroad.
